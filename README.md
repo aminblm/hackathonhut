@@ -200,6 +200,14 @@ This is our hackathon hut
 ### Generate Traffic
 ### Hacks
 ## Resources
+### Repositories
+#### Computer Science					
+#### Entrepreneurship
+#### Robotics
+#### Aerospace
+#### Mathematics
+#### Learning
+#### Success
 ### Youtube Channels / Videos  
 #### Computer Science					
 #### Entrepreneurship
@@ -261,14 +269,6 @@ This is our hackathon hut
 #### Learning
 #### Success
 ### Organizational Resources
-### Repositories
-#### Computer Science					
-#### Entrepreneurship
-#### Robotics
-#### Aerospace
-#### Mathematics
-#### Learning
-#### Success
 ### Frameworks
 #### Design
 #### Development
