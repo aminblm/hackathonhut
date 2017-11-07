@@ -10,92 +10,6 @@ This is our hackathon hut
 	- [Competitions / Contests](#competitions--contests)
 	- [Events](#events)
 	- [Hackathons](#hackathons)
-- [Resources](#resources)
-	- [Youtube Channels / Videos](#youtube-channels--videos)
-		- [Computer Science](#computer-science)
-		- [Entrepreneurship](#entrepreneurship)
-		- [Robotics](#robotics)
-		- [Aerospace](#aerospace)
-		- [Mathematics](#mathematics)
-		- [Learning](#learning)
-		- [Success](#success)
-	- [Articles](#articles)
-		- [Computer Science](#computer-science-1)
-		- [Entrepreneurship](#entrepreneurship-1)
-		- [Robotics](#robotics-1)
-		- [Aerospace](#aerospace-1)
-		- [Mathematics](#mathematics-1)
-		- [Learning](#learning-1)
-		- [Success](#success-1)
-	- [Open-source Resources](#open-source-resources)
-		- [Computer Science](#computer-science-2)
-		- [Entrepreneurship](#entrepreneurship-2)
-		- [Robotics](#robotics-2)
-		- [Aerospace](#aerospace-2)
-		- [Mathematics](#mathematics-2)
-		- [Learning](#learning-2)
-		- [Success](#success-2)
-	- [Tools](#tools)
-		- [Computer Science](#computer-science-3)
-		- [Entrepreneurship](#entrepreneurship-3)
-		- [Robotics](#robotics-3)
-		- [Aerospace](#aerospace-3)
-		- [Mathematics](#mathematics-3)
-		- [Learning](#learning-3)
-		- [Success](#success-3)
-	- [Books](#books)
-		- [Computer Science](#computer-science-4)
-		- [Entrepreneurship](#entrepreneurship-4)
-		- [Robotics](#robotics-4)
-		- [Aerospace](#aerospace-4)
-		- [Mathematics](#mathematics-4)
-		- [Learning](#learning-4)
-		- [Success](#success-4)
-	- [Documentaries](#documentaries)
-		- [Computer Science](#computer-science-5)
-		- [Entrepreneurship](#entrepreneurship-5)
-		- [Robotics](#robotics-5)
-		- [Aerospace](#aerospace-5)
-		- [Mathematics](#mathematics-5)
-		- [Learning](#learning-5)
-		- [Success](#success-5)
-	- [Mobiles Applications](#mobiles-applications)
-		- [Organizational](#organizational)
-		- [Investments](#investments)
-		- [Tools](#tools-1)
-	- [General knowledge](#general-knowledge)
-		- [Computer Science](#computer-science-6)
-		- [Entrepreneurship](#entrepreneurship-6)
-		- [Robotics](#robotics-6)
-		- [Aerospace](#aerospace-6)
-		- [Mathematics](#mathematics-6)
-		- [Learning](#learning-6)
-		- [Success](#success-6)
-	- [Organizational Resources](#organizational-1-resources)
-	- [Repositories](#repositories)
-		- [Computer Science](#computer-science-7)
-		- [Entrepreneurship](#entrepreneurship-7)
-		- [Robotics](#robotics-7)
-		- [Aerospace](#aerospace-7)
-		- [Mathematics](#mathematics-7)
-		- [Learning](#learning-7)
-		- [Success](#success-7)
-	- [Frameworks](#frameworks)
-		- [Design](#design)
-		- [Development](#development)
-			- [Bootstrap](#bootstrap)
-	- [Life Hacks](#life-hacks)
-	- [Packages](#packages)
-		- [Atom](#atom)
-		- [ReactJS](#reactjs)
-		- [Bootstrap](#bootstrap-1)
-	- [Notes](#notes)
-	- [Browser Extensions](#browser-extensions)
-		- [Organizational](#organizational-2)
-		- [Investments](#investments-1)
-		- [Tools](#tools-2)
-	- [Websites](#websites)
-		- [Interesting mailing lists subscriptions](#interesting-mailing-lists-subscriptions)
 - [Making Money](#making-money)
 	- [Clever ways to make money](#clever-ways-to-make-money)
 	- [Investments](#investments-2)
@@ -143,6 +57,92 @@ This is our hackathon hut
 - [Traffic](#traffic)
 	- [Generate Traffic](#generate-traffic)
 	- [Hacks](#hacks-3)
+	- [Resources](#resources)
+		- [Youtube Channels / Videos](#youtube-channels--videos)
+			- [Computer Science](#computer-science)
+			- [Entrepreneurship](#entrepreneurship)
+			- [Robotics](#robotics)
+			- [Aerospace](#aerospace)
+			- [Mathematics](#mathematics)
+			- [Learning](#learning)
+			- [Success](#success)
+		- [Articles](#articles)
+			- [Computer Science](#computer-science-1)
+			- [Entrepreneurship](#entrepreneurship-1)
+			- [Robotics](#robotics-1)
+			- [Aerospace](#aerospace-1)
+			- [Mathematics](#mathematics-1)
+			- [Learning](#learning-1)
+			- [Success](#success-1)
+		- [Open-source Resources](#open-source-resources)
+			- [Computer Science](#computer-science-2)
+			- [Entrepreneurship](#entrepreneurship-2)
+			- [Robotics](#robotics-2)
+			- [Aerospace](#aerospace-2)
+			- [Mathematics](#mathematics-2)
+			- [Learning](#learning-2)
+			- [Success](#success-2)
+		- [Tools](#tools)
+			- [Computer Science](#computer-science-3)
+			- [Entrepreneurship](#entrepreneurship-3)
+			- [Robotics](#robotics-3)
+			- [Aerospace](#aerospace-3)
+			- [Mathematics](#mathematics-3)
+			- [Learning](#learning-3)
+			- [Success](#success-3)
+		- [Books](#books)
+			- [Computer Science](#computer-science-4)
+			- [Entrepreneurship](#entrepreneurship-4)
+			- [Robotics](#robotics-4)
+			- [Aerospace](#aerospace-4)
+			- [Mathematics](#mathematics-4)
+			- [Learning](#learning-4)
+			- [Success](#success-4)
+		- [Documentaries](#documentaries)
+			- [Computer Science](#computer-science-5)
+			- [Entrepreneurship](#entrepreneurship-5)
+			- [Robotics](#robotics-5)
+			- [Aerospace](#aerospace-5)
+			- [Mathematics](#mathematics-5)
+			- [Learning](#learning-5)
+			- [Success](#success-5)
+		- [Mobiles Applications](#mobiles-applications)
+			- [Organizational](#organizational)
+			- [Investments](#investments)
+			- [Tools](#tools-1)
+		- [General knowledge](#general-knowledge)
+			- [Computer Science](#computer-science-6)
+			- [Entrepreneurship](#entrepreneurship-6)
+			- [Robotics](#robotics-6)
+			- [Aerospace](#aerospace-6)
+			- [Mathematics](#mathematics-6)
+			- [Learning](#learning-6)
+			- [Success](#success-6)
+		- [Organizational Resources](#organizational-1-resources)
+		- [Repositories](#repositories)
+			- [Computer Science](#computer-science-7)
+			- [Entrepreneurship](#entrepreneurship-7)
+			- [Robotics](#robotics-7)
+			- [Aerospace](#aerospace-7)
+			- [Mathematics](#mathematics-7)
+			- [Learning](#learning-7)
+			- [Success](#success-7)
+		- [Frameworks](#frameworks)
+			- [Design](#design)
+			- [Development](#development)
+				- [Bootstrap](#bootstrap)
+		- [Life Hacks](#life-hacks)
+		- [Packages](#packages)
+			- [Atom](#atom)
+			- [ReactJS](#reactjs)
+			- [Bootstrap](#bootstrap-1)
+		- [Notes](#notes)
+		- [Browser Extensions](#browser-extensions)
+			- [Organizational](#organizational-2)
+			- [Investments](#investments-1)
+			- [Tools](#tools-2)
+		- [Websites](#websites)
+			- [Interesting mailing lists subscriptions](#interesting-mailing-lists-subscriptions)
 - [Other topics](#other-topics)
 
 ## Dashboards  
@@ -152,6 +152,53 @@ This is our hackathon hut
 ### Competitions / Contests
 ### Events
 ### Hackathons
+## Making Money  
+### Clever ways to make money
+### Investments
+## Courses  
+### Cyber Security
+### Certifications
+## Ideas  
+### Ideas pitched in hackathons
+### Ideas we find interesting
+### Our Ideas
+## Influencers  
+### Computer Science					
+### Entrepreneurship
+### Robotics
+### Aerospace
+### Mathematics
+### Learning
+### Success
+## Professional  
+### Projects
+### Opportunities
+### Scholarships
+### Professional visits
+### Contacts
+## Personal Development  
+### Experiences
+### Travels
+## Networks  
+### Social Networks  
+#### Hacks  
+##### Facebook
+##### Youtube
+##### LinkedIn
+##### Twitter
+##### Instagram
+#### Communities  
+##### Facebook groups
+##### Twitter Lists
+##### LinkedIn groups
+### Communities  
+#### Forums
+#### Email lists
+#### Websites
+### Hacks
+## Traffic
+### Generate Traffic
+### Hacks
 ## Resources
 ### Youtube Channels / Videos  
 #### Computer Science					
@@ -238,51 +285,4 @@ This is our hackathon hut
 #### Tools
 ### Websites
 #### Interesting mailing lists subscriptions
-## Making Money  
-### Clever ways to make money
-### Investments
-## Courses  
-### Cyber Security
-### Certifications
-## Ideas  
-### Ideas pitched in hackathons
-### Ideas we find interesting
-### Our Ideas
-## Influencers  
-### Computer Science					
-### Entrepreneurship
-### Robotics
-### Aerospace
-### Mathematics
-### Learning
-### Success
-## Professional  
-### Projects
-### Opportunities
-### Scholarships
-### Professional visits
-### Contacts
-## Personal Development  
-### Experiences
-### Travels
-## Networks  
-### Social Networks  
-#### Hacks  
-##### Facebook
-##### Youtube
-##### LinkedIn
-##### Twitter
-##### Instagram
-#### Communities  
-##### Facebook groups
-##### Twitter Lists
-##### LinkedIn groups
-### Communities  
-#### Forums
-#### Email lists
-#### Websites
-### Hacks
-## Traffic
-### Generate Traffic
-### Hacks
 ## Other topics
