@@ -4,7 +4,7 @@ This is our hackathon hut
 ## Table of contents
 
 - [Dashboards](#dashboards)
-	- [Goals](#)
+	- [Goals](#Goals)
 	- [Challenges](#)
 - [National and International Events](#national-and-international-events)
 	- [Competitions / Contests](#)
