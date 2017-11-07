@@ -76,7 +76,7 @@ This is our hackathon hut
 			- [Aerospace](#aerospace-2)
 			- [Mathematics](#mathematics-2)
 			- [Learning](#learning-2)
-			- [Success](#success-2)
+			- [Personal Development](#personal-development)
 		- [Articles](#articles)
 			- [Computer Science](#computer-science-3)
 			- [Entrepreneurship](#entrepreneurship-3)
