@@ -1,4 +1,5 @@
-computer-science-2# Hackathon Hut
+# Hackathon Hut
+
 This is our hackathon hut
 
 ## Table of contents
