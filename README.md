@@ -212,15 +212,15 @@ This is our hackathon hut
 #### Learning
 #### Success
 ### Youtube Channels / Videos  
-	- [LearnCode.Academy](https://www.youtube.com/user/learncodeacademy/) : Free web development channel.
-	- [Google Developers](https://www.youtube.com/user/GoogleDevelopers) : The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.
-	- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Help developers build Artificial Intelligence, Games, music, chatbots and art.
-	- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : Creative coding video tutorials, Subjects covered range from the basics of programming languages to generative complex algorithms.
-	- [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g/featured) : This channel will upload animated book review, inspirational and motivational videos, as well as tutorials on many topics. From financial tips, romance, and happiness to psychological tips, personal development, and even productivity advice.
-	- [Derek Banas](https://www.youtube.com/user/derekbanas/) : All languages and Frameworks tutorials.
-	- [The school of life](https://www.youtube.com/user/schooloflifechannel/) : The School of Life is a global organization dedicated to developing emotional intelligence
-	- [Thomas Frank](https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ) : Videos that helps to be awesome at school and college
-	- [FightMediocrity](https://www.youtube.com/user/phuckmediocrity) : FightMediocrity is a channel dedicated to fighting mediocrity through big ideas.
+- [LearnCode.Academy](https://www.youtube.com/user/learncodeacademy/) : Free web development channel.
+- [Google Developers](https://www.youtube.com/user/GoogleDevelopers) : The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Help developers build Artificial Intelligence, Games, music, chatbots and art.
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : Creative coding video tutorials, Subjects covered range from the basics of programming languages to generative complex algorithms.
+- [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g/featured) : This channel will upload animated book review, inspirational and motivational videos, as well as tutorials on many topics. From financial tips, romance, and happiness to psychological tips, personal development, and even productivity advice.
+- [Derek Banas](https://www.youtube.com/user/derekbanas/) : All languages and Frameworks tutorials.
+- [The school of life](https://www.youtube.com/user/schooloflifechannel/) : The School of Life is a global organization dedicated to developing emotional intelligence
+- [Thomas Frank](https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ) : Videos that helps to be awesome at school and college
+- [FightMediocrity](https://www.youtube.com/user/phuckmediocrity) : FightMediocrity is a channel dedicated to fighting mediocrity through big ideas.
 #### Computer Science					
 #### Entrepreneurship
 #### Robotics
