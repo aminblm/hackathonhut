@@ -2,6 +2,8 @@
 
 This is our hackathon hut
 
+*The best investment you can make is in yourself* - Warren Buffett
+
 ## Table of contents
 
 - [Dashboards](#dashboards)
