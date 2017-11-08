@@ -298,7 +298,7 @@ This is our hackathon hut
 ### Life Hacks
 ### Packages
 #### Atom
-[List of Atom Packages by Shopify](https://www.shopify.com/partners/blog/best-atom-packages-2017) : The 20 Best Atom Packages for Front End Developers by Shopify.
+- [List of Atom Packages by Shopify](https://www.shopify.com/partners/blog/best-atom-packages-2017) : The 20 Best Atom Packages for Front End Developers by Shopify.
 #### ReactJS
 #### Bootstrap
 ### Notes
