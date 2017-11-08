@@ -295,6 +295,7 @@ This is our hackathon hut
 #### Design
 #### Development
 ##### Bootstrap
+- [Bootstrap 3 Cheat-Sheet](https://bootstrapcreative.com/resources/bootstrap-3-css-classes-index/) : Complete List of All Bootstrap 3 CSS Classes.
 ### Life Hacks
 ### Packages
 #### Atom
