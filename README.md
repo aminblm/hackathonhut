@@ -145,7 +145,7 @@ This is our hackathon hut
 			- [Investments](#investments-1)
 			- [Tools](#tools-2)
 		- [Websites](#websites)
-			- [Interesting mailing lists subscriptions](#interesting-mailing-lists-subscriptions)
+			- [Interesting Newsletter Subscriptions](#interesting-newsletter-subscriptions)
 - [Other topics](#other-topics)
 
 ## Dashboards  
@@ -296,5 +296,7 @@ This is our hackathon hut
 #### Investments
 #### Tools
 ### Websites
-#### Interesting mailing lists subscriptions
+#### Interesting Newsletter Subscriptions
+- [Usersnap Collection](https://usersnap.com/blog/web-development-newsletters/) : 20+ fantastic web development newsletters worth reading.
+- [Medium](https://medium.com/) : Subscribe to medium to have emails about what is trending on the platform.
 ## Other topics
