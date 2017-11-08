@@ -167,7 +167,7 @@ This is our hackathon hut
 ### Our Ideas
 ## Influencers  
 - [Elon Musk](https://fr.wikipedia.org/wiki/Elon_Musk) : Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian American business magnate, investor, engineer, and inventor. He is the founder, CEO, and CTO of [SpaceX](https://en.wikipedia.org/wiki/SpaceX); a co-founder, Series A investor, CEO, and product architect of [Tesla Inc.](https://en.wikipedia.org/wiki/Tesla_Inc.); co-chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI); and founder and CEO of [Neuralink](https://en.wikipedia.org/wiki/Neuralink). Musk is also a co-founder and former chairman of [SolarCity](https://en.wikipedia.org/wiki/SolarCity), co-founder of [Zip2](https://en.wikipedia.org/wiki/Zip2), and founder of [X.com](https://en.wikipedia.org/wiki/X.com), which merged with [Confinity](https://en.wikipedia.org/wiki/Confinity) and took the name [PayPal](https://en.wikipedia.org/wiki/PayPal).
-- []() : .
+- [Warren Buffett](https://fr.wikipedia.org/wiki/Warren_Buffett) : Warren Edward Buffett (born August 30, 1930) is an American business magnate, investor, and philanthropist. Buffett serves as the Chief Executive Officer and Chairman of [Berkshire Hathaway](https://en.wikipedia.org/wiki/Berkshire_Hathaway). He is considered by some to be one of the most successful investors in the world, and as of August 2017 is the second wealthiest person in the United States, and the fourth wealthiest in the world, with a total net worth of $81.1 billion.
 - []() : .
 - []() : .
 - []() : .
