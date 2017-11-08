@@ -31,7 +31,7 @@ This is our hackathon hut
 	- [Mathematics](#mathematics)
 	- [Learning](#learning)
 	- [Success](#success)
-	-[Polyvalent](#olyvalent)
+	- [Polyvalent](#polyvalent)
 - [Professional](#professional)
 	- [Projects](#projects)
 	- [Opportunities](#opportunities)
