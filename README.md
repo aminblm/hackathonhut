@@ -298,6 +298,7 @@ This is our hackathon hut
 ### Life Hacks
 ### Packages
 #### Atom
+[The 20 Best Atom Packages for Front End Developers](https://www.shopify.com/partners/blog/best-atom-packages-2017)
 #### ReactJS
 #### Bootstrap
 ### Notes
