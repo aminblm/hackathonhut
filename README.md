@@ -31,6 +31,7 @@ This is our hackathon hut
 	- [Mathematics](#mathematics)
 	- [Learning](#learning)
 	- [Success](#success)
+	-[Polyvalent](#olyvalent)
 - [Professional](#professional)
 	- [Projects](#projects)
 	- [Opportunities](#opportunities)
@@ -151,10 +152,14 @@ This is our hackathon hut
 ## Dashboards  
 ### Goals
 ### Challenges
+- [Contribute Everyday to the Hut](https://github.com/flambok/hackathonhut) : A challenge of contributing everyday to the hut.
+- [Participate Every Weekend to European Hackathons](https://hackevents.co/hackathons/europe) : A challenge to participate every weekend to European Hackathons.
 ## National and International Events  
 ### Competitions / Contests
 ### Events
+- [Event Brite](https://www.eventbrite.com/) : A platform that displays all the events around the world.
 ### Hackathons
+- [Hack Events](https://hackevents.co/hackathons/) : A platform that displays all the hackathons around the glob.
 ## Making Money  
 ### Clever ways to make money
 ### Investments
@@ -166,12 +171,6 @@ This is our hackathon hut
 ### Ideas we find interesting
 ### Our Ideas
 ## Influencers  
-- [Elon Musk](https://fr.wikipedia.org/wiki/Elon_Musk) : Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian American business magnate, investor, engineer, and inventor. He is the founder, CEO, and CTO of [SpaceX](https://en.wikipedia.org/wiki/SpaceX); a co-founder, Series A investor, CEO, and product architect of [Tesla Inc.](https://en.wikipedia.org/wiki/Tesla_Inc.); co-chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI); and founder and CEO of [Neuralink](https://en.wikipedia.org/wiki/Neuralink). Musk is also a co-founder and former chairman of [SolarCity](https://en.wikipedia.org/wiki/SolarCity), co-founder of [Zip2](https://en.wikipedia.org/wiki/Zip2), and founder of [X.com](https://en.wikipedia.org/wiki/X.com), which merged with [Confinity](https://en.wikipedia.org/wiki/Confinity) and took the name [PayPal](https://en.wikipedia.org/wiki/PayPal).
-- [Warren Buffett](https://fr.wikipedia.org/wiki/Warren_Buffett) : Warren Edward Buffett (born August 30, 1930) is an American business magnate, investor, and philanthropist. Buffett serves as the Chief Executive Officer and Chairman of [Berkshire Hathaway](https://en.wikipedia.org/wiki/Berkshire_Hathaway). He is considered by some to be one of the most successful investors in the world, and as of August 2017 is the second wealthiest person in the United States, and the fourth wealthiest in the world, with a total net worth of $81.1 billion.
-- []() : .
-- []() : .
-- []() : .
-
 ### Computer Science					
 ### Entrepreneurship
 ### Robotics
@@ -179,6 +178,9 @@ This is our hackathon hut
 ### Mathematics
 ### Learning
 ### Success
+- [Warren Buffett](https://fr.wikipedia.org/wiki/Warren_Buffett) : Warren Edward Buffett (born August 30, 1930) is an American business magnate, investor, and philanthropist. Buffett serves as the Chief Executive Officer and Chairman of [Berkshire Hathaway](https://en.wikipedia.org/wiki/Berkshire_Hathaway). He is considered by some to be one of the most successful investors in the world, and as of August 2017 is the second wealthiest person in the United States, and the fourth wealthiest in the world, with a total net worth of $81.1 billion.
+### Polyvalent
+- [Elon Musk](https://fr.wikipedia.org/wiki/Elon_Musk) : Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian American business magnate, investor, engineer, and inventor. He is the founder, CEO, and CTO of [SpaceX](https://en.wikipedia.org/wiki/SpaceX); a co-founder, Series A investor, CEO, and product architect of [Tesla Inc.](https://en.wikipedia.org/wiki/Tesla_Inc.); co-chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI); and founder and CEO of [Neuralink](https://en.wikipedia.org/wiki/Neuralink). Musk is also a co-founder and former chairman of [SolarCity](https://en.wikipedia.org/wiki/SolarCity), co-founder of [Zip2](https://en.wikipedia.org/wiki/Zip2), and founder of [X.com](https://en.wikipedia.org/wiki/X.com), which merged with [Confinity](https://en.wikipedia.org/wiki/Confinity) and took the name [PayPal](https://en.wikipedia.org/wiki/PayPal).
 ## Professional  
 ### Projects
 ### Opportunities
