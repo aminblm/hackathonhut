@@ -167,6 +167,7 @@ This is our hackathon hut
 ### Cyber Security
 ### Certifications
 - [Sololearn](sololearn.com) : Programming languages certifications.
+- [Coursera](coursera.com) : A lot of areas certifications.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
