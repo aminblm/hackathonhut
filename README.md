@@ -168,6 +168,7 @@ This is our hackathon hut
 ### Certifications
 - [Sololearn](sololearn.com) : Programming languages certifications.
 - [Coursera](coursera.com) : A lot of areas certifications.
+- [Google Digital Garage](https://learndigital.withgoogle.com/) : Free courses on everything from search to social media, to help you grow your business or career.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
