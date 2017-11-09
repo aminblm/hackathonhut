@@ -184,7 +184,8 @@ This is our hackathon hut
 - [Facebook Blueprint](https://www.facebook.com/blueprint/certification) : Earn Facebook blueprint's certificates.
 - [MongoDB Certification](https://university.mongodb.com/certification) : Elite engineers for your most crucial roles, MongoDB's certifications.
 - [Google Developers Certification](https://developers.google.com/training/certification/) : Learn and grow as a developer with our educational resources and certification exams.
-- [SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/) : By Moz moz.com, We believe in better marketing.. 
+- [SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/) : By Moz moz.com, We believe in better marketing.
+- [CCNA Certificate](https://masterofproject.com/p/introduction-to-cisco-ccna-200-120) : CCNA Training, Learn about CCNA foundations, OSI Model, Cisco 3 Layer Model, LANs and more.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
