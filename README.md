@@ -181,6 +181,7 @@ This is our hackathon hut
 - [Cybrary](https://www.cybrary.it/course/comptia-aplus/) : Free and Open Source Learning for Cyber Security, IT and more with certifications.
 - [Email Marketing](https://certification.hubspot.com/email-marketing-certification-course) : Learn the advanced email marketing strategy and tactics that grow your business, and your career.
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) : Learn financial modeling & valuation with online courses & certificates.
+- [Facebook Blueprint](https://www.facebook.com/blueprint/certification) : Earn Facebook blueprint's certificates.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
