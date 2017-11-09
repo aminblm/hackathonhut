@@ -178,6 +178,7 @@ This is our hackathon hut
 - [Microsoft](https://www.microsoft.com/en-us/learning/certification-overview.aspx#/) : Microsoft Certification. Get hired, demonstrate clear business impact, and advance your skills with Microsoft certifications. Delivering a wide range of online certification programs we can help you take your career to the next level.
 - [Oxford Home Study College](http://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) : UK's leading college offering affordable study at home courses– welcome to Oxford Home Study College.
 - [INBOUND SALES](https://certification.hubspot.com/inbound-sales-certification-course) : Get certified. Grow your pipeline. Close more deals. Grow your career.
+- [ICS2](https://www.isc2.org/Certifications) : (ISC)² Information Security Certifications.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
