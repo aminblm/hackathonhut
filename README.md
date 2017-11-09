@@ -165,7 +165,8 @@ This is our hackathon hut
 ### Investments
 ## Courses  
 - [Open Culture](http://www.openculture.com/free_certificate_courses) : The best free cultural & educational media on the web.
-- [Open 2 Study](https://www.open2study.com) : Open2Study provides free, specialized short courses, entirely online, across the world, in a range of subject areas..
+- [Open 2 Study](https://www.open2study.com) : Open2Study provides free, specialized short courses, entirely online, across the world, in a range of subject areas.
+- [edX](https://www.edx.org) : Free Online Courses. Advance Your Career. Improve Your Life.
 ### Cyber Security
 ### Certifications
 - [Sololearn](sololearn.com) : Programming languages certifications.
