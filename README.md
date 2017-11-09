@@ -180,6 +180,7 @@ This is our hackathon hut
 - [ICS2](https://www.isc2.org/Certifications) : (ISC)² Information Security Certifications.
 - [Cybrary](https://www.cybrary.it/course/comptia-aplus/) : Free and Open Source Learning for Cyber Security, IT and more with certifications.
 - [Email Marketing](https://certification.hubspot.com/email-marketing-certification-course) : Learn the advanced email marketing strategy and tactics that grow your business, and your career.
+- [Corporate Finance Institute](https://corporatefinanceinstitute.com/) : Learn financial modeling & valuation with online courses & certificates.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
