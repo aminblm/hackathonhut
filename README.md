@@ -168,7 +168,6 @@ This is our hackathon hut
 - [Open 2 Study](https://www.open2study.com) : Open2Study provides free, specialized short courses, entirely online, across the world, in a range of subject areas.
 - [edX](https://www.edx.org) : Free Online Courses. Advance Your Career. Improve Your Life.
 - [Linux Courses](https://training.linuxfoundation.org/linux-courses) : With the ever increasing ubiquity of Linux in both the server and embedded markets, The Linux Foundation's introductory Linux courses and advanced Linux training provide both companies and individuals with a variety of training options to increase their knowledge and use of Linux.
-- [Cybrary](https://www.cybrary.it/course/comptia-aplus/) : Free and Open Source Learning for Cyber Security, IT and more.
 ### Cyber Security
 ### Certifications
 - [Sololearn](sololearn.com) : Programming languages certifications.
@@ -179,6 +178,8 @@ This is our hackathon hut
 - [Oxford Home Study College](http://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) : UK's leading college offering affordable study at home courses– welcome to Oxford Home Study College.
 - [INBOUND SALES](https://certification.hubspot.com/inbound-sales-certification-course) : Get certified. Grow your pipeline. Close more deals. Grow your career.
 - [ICS2](https://www.isc2.org/Certifications) : (ISC)² Information Security Certifications.
+- [Cybrary](https://www.cybrary.it/course/comptia-aplus/) : Free and Open Source Learning for Cyber Security, IT and more with certifications.
+- [Email Marketing](https://certification.hubspot.com/email-marketing-certification-course) : Learn the advanced email marketing strategy and tactics that grow your business, and your career.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
