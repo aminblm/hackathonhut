@@ -173,6 +173,7 @@ This is our hackathon hut
 - [Coursera](coursera.com) : A lot of areas certifications.
 - [Google Digital Garage](https://learndigital.withgoogle.com/) : Free courses on everything from search to social media, to help you grow your business or career.
 - [EMarketing Institure](https://www.emarketinginstitute.org/free-courses/online-marketing-certification-course/) : Online marketing course and free certification.
+- [Microsoft](https://www.microsoft.com/en-us/learning/certification-overview.aspx#/) : Microsoft Certification. Get hired, demonstrate clear business impact, and advance your skills with Microsoft certifications. Delivering a wide range of online certification programs we can help you take your career to the next level.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
