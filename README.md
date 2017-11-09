@@ -158,6 +158,7 @@ This is our hackathon hut
 ### Competitions / Contests
 ### Events
 - [Event Brite](https://www.eventbrite.com/) : A platform that displays all the events around the world.
+- [Cybrary Events](https://www.cybrary.it/events/) : Cyber security events.
 ### Hackathons
 - [Hack Events](https://hackevents.co/hackathons/) : A platform that displays all the hackathons around the glob.
 ## Making Money  
@@ -183,12 +184,14 @@ This is our hackathon hut
 - [Email Marketing](https://certification.hubspot.com/email-marketing-certification-course) : Learn the advanced email marketing strategy and tactics that grow your business, and your career.
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) : Learn financial modeling & valuation with online courses & certificates.
 - [Facebook Blueprint](https://www.facebook.com/blueprint/certification) : Earn Facebook blueprint's certificates.
-- [MongoDB Certification](https://university.mongodb.com/certification) : Elite engineers for your most crucial roles, MongoDB's certifications.
+- [MongoDB Official Certificate](https://university.mongodb.com/certification) : Elite engineers for your most crucial roles, MongoDB's certifications.
 - [Google Developers Certification](https://developers.google.com/training/certification/) : Learn and grow as a developer with our educational resources and certification exams.
 - [SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/) : By Moz moz.com, We believe in better marketing.
 - [CCNA Certificate](https://masterofproject.com/p/introduction-to-cisco-ccna-200-120) : CCNA Training, Learn about CCNA foundations, OSI Model, Cisco 3 Layer Model, LANs and more.
 - [Udemy](https://www.udemy.com) : Build your skills with our incredible instructors
 - [Kali Linux](https://kali.training) : The Ultimate Kali Linux Book and Manual with KLCP Certification.
+- [SQL Official Certificate](https://blogs.oracle.com/developers/learn-sql-with-this-free-online-12-week-course) : Learn SQL with This Free Online 12-Week Course.
+
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
