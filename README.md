@@ -172,6 +172,7 @@ This is our hackathon hut
 - [Sololearn](sololearn.com) : Programming languages certifications.
 - [Coursera](coursera.com) : A lot of areas certifications.
 - [Google Digital Garage](https://learndigital.withgoogle.com/) : Free courses on everything from search to social media, to help you grow your business or career.
+- [EMarketing Institure](https://www.emarketinginstitute.org/free-courses/online-marketing-certification-course/) : Online marketing course and free certification.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
