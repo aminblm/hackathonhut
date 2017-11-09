@@ -182,6 +182,8 @@ This is our hackathon hut
 - [Email Marketing](https://certification.hubspot.com/email-marketing-certification-course) : Learn the advanced email marketing strategy and tactics that grow your business, and your career.
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) : Learn financial modeling & valuation with online courses & certificates.
 - [Facebook Blueprint](https://www.facebook.com/blueprint/certification) : Earn Facebook blueprint's certificates.
+- [MongoDB Certification](https://university.mongodb.com/certification) : Elite engineers for your most crucial roles, MongoDB's certifications.
+- [Google Developers Certification](https://developers.google.com/training/certification/) : Learn and grow as a developer with our educational resources and certification exams. 
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
