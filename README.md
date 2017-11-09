@@ -164,12 +164,13 @@ This is our hackathon hut
 ### Clever ways to make money
 ### Investments
 ## Courses  
+- [Open Culture](http://www.openculture.com/free_certificate_courses) : The best free cultural & educational media on the web.
+- [Open 2 Study](https://www.open2study.com) : Open2Study provides free, specialized short courses, entirely online, across the world, in a range of subject areas..
 ### Cyber Security
 ### Certifications
 - [Sololearn](sololearn.com) : Programming languages certifications.
 - [Coursera](coursera.com) : A lot of areas certifications.
 - [Google Digital Garage](https://learndigital.withgoogle.com/) : Free courses on everything from search to social media, to help you grow your business or career.
-- [Open Culture](http://www.openculture.com/free_certificate_courses) : The best free cultural & educational media on the web.
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
