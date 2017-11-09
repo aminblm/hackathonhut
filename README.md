@@ -183,7 +183,8 @@ This is our hackathon hut
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) : Learn financial modeling & valuation with online courses & certificates.
 - [Facebook Blueprint](https://www.facebook.com/blueprint/certification) : Earn Facebook blueprint's certificates.
 - [MongoDB Certification](https://university.mongodb.com/certification) : Elite engineers for your most crucial roles, MongoDB's certifications.
-- [Google Developers Certification](https://developers.google.com/training/certification/) : Learn and grow as a developer with our educational resources and certification exams. 
+- [Google Developers Certification](https://developers.google.com/training/certification/) : Learn and grow as a developer with our educational resources and certification exams.
+- [SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/) : By Moz moz.com, We believe in better marketing.. 
 ## Ideas  
 ### Ideas pitched in hackathons
 ### Ideas we find interesting
