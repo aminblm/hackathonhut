@@ -163,6 +163,7 @@ This is our hackathon hut
 - [Hack Events](https://hackevents.co/hackathons/) : A platform that displays all the hackathons around the glob.
 ## Making Money  
 ### Clever ways to make money
+[Kickstarter](https://www.kickstarter.com) : Our mission is to help you realize your projects.
 ### Investments
 ## Courses  
 - [Open Culture](http://www.openculture.com/free_certificate_courses) : The best free cultural & educational media on the web.
@@ -232,6 +233,7 @@ This is our hackathon hut
 #### Forums
 #### Email lists
 #### Websites
+- [Medium](medium.com) : Community of writers.
 ### Hacks
 ## Traffic
 ### Generate Traffic
