@@ -233,7 +233,7 @@ This is our hackathon hut
 #### Forums
 #### Email lists
 #### Websites
-- [Medium](medium.com) : Community of writers.
+- [Medium](https://medium.com) : Community of writers.
 ### Hacks
 ## Traffic
 ### Generate Traffic
