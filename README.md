@@ -292,6 +292,7 @@ This is our hackathon hut
 ### Books  
 #### Computer Science					
 #### Entrepreneurship
+- [Zero to One](http://zerotoonebook.com) :Legendary entrepreneur and investor Peter Thiel shows how to build a great business—and a better future.
 #### Robotics
 #### Aerospace
 #### Mathematics
