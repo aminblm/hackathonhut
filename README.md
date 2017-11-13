@@ -56,7 +56,7 @@ This is our hackathon hut
 	- [Communities](#communities)
 		- [Forums](#forums)
 		- [Email lists](#email-lists)
-		- [Websites](#websites-1)
+		- [Websites](#websites)
 	- [Hacks](#hacks-2)
 - [Traffic](#traffic)
 	- [Generate Traffic](#generate-traffic)
@@ -145,7 +145,7 @@ This is our hackathon hut
 			- [Organizational](#organizational-2)
 			- [Investments](#investments-2)
 			- [Tools](#tools-2)
-		- [Websites](#websites)
+		- [Websites](#websites-1)
 			- [Interesting Newsletter Subscriptions](#interesting-newsletter-subscriptions)
 			- [Interesting Websites](#interesting-websites)
 - [Other topics](#other-topics)
@@ -341,4 +341,5 @@ This is our hackathon hut
 - [Medium](https://medium.com/) : Subscribe to medium to have emails about what is trending on the platform.
 #### Interesting Websites
 -[Unicorns](http://fortune.com/unicorns/) : They’re called “unicorns”—private companies valued at $1 billion or more. The billion-dollar technology startup was once the stuff of myth. Today they're seemingly everywhere, backed by a bull market and a new generation of disruptive technology.
+- [Wappalyzer](https://www.wappalyzer.com) : The ultimate tool to know everything about the technologies in the web. 
 ## Other topics
