@@ -137,7 +137,7 @@ This is our hackathon hut
 				- [Bootstrap](#bootstrap)
 		- [Life Hacks](#life-hacks)
 		- [Packages](#packages)
-			- [Visual Studio Code](Visual-studio-code) 
+			- [Visual Studio Code](visual-studio-code) 
 			- [Atom](#atom)
 			- [ReactJS](#reactjs)
 			- [Bootstrap](#bootstrap-1)
