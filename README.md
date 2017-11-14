@@ -137,6 +137,7 @@ This is our hackathon hut
 				- [Bootstrap](#bootstrap)
 		- [Life Hacks](#life-hacks)
 		- [Packages](#packages)
+			- [Visual Studio Code](Visual-studio-code) 
 			- [Atom](#atom)
 			- [ReactJS](#reactjs)
 			- [Bootstrap](#bootstrap-1)
@@ -326,6 +327,8 @@ This is our hackathon hut
 - [Bootstrap 3 Cheat-Sheet](https://bootstrapcreative.com/resources/bootstrap-3-css-classes-index/) : Complete List of All Bootstrap 3 CSS Classes.
 ### Life Hacks
 ### Packages
+#### Visual Studio Code
+- [Top Visual Studio Code Extensions](https://stackify.com/top-visual-studio-code-extensions/) : Top Visual Studio Code Extensions: 50 Powerful Tools.
 #### Atom
 - [List of Atom Packages by Shopify](https://www.shopify.com/partners/blog/best-atom-packages-2017) : The 20 Best Atom Packages for Front End Developers by Shopify.
 #### ReactJS
