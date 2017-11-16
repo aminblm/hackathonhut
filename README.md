@@ -348,7 +348,7 @@ This is our hackathon hut
 - [Usersnap Collection](https://usersnap.com/blog/web-development-newsletters/) : 20+ fantastic web development newsletters worth reading.
 - [Medium](https://medium.com/) : Subscribe to medium to have emails about what is trending on the platform.
 #### Interesting Websites
--[Unicorns](http://fortune.com/unicorns/) : They’re called “unicorns”—private companies valued at $1 billion or more. The billion-dollar technology startup was once the stuff of myth. Today they're seemingly everywhere, backed by a bull market and a new generation of disruptive technology.
+- [Unicorns](http://fortune.com/unicorns/) : They’re called “unicorns”—private companies valued at $1 billion or more. The billion-dollar technology startup was once the stuff of myth. Today they're seemingly everywhere, backed by a bull market and a new generation of disruptive technology.
 - [Wappalyzer](https://www.wappalyzer.com) : The ultimate tool to know everything about the technologies in the web.
 - [Player Fm](https://player.fm) : Website gathering all the podcasts worldwide.
 ## Other topics
