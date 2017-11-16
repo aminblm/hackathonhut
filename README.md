@@ -264,7 +264,7 @@ This is our hackathon hut
 - [Science4all](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX) : Democratie sous l'angle de la théorie des jeux.
 #### Learning
 - [Hygiène-Mental](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw) : Cette Chaîne propose un éveil à la pensée critique.
--	[Réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ) : Vidéos explicatives sur la thématique de l'épuisement des ressources.
+- [Réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ) : Vidéos explicatives sur la thématique de l'épuisement des ressources.
 - [Heureka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ) : Les bases de la finance et de la création monétaire.
 #### Personal Development
 - [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g/featured) : This channel will upload animated book review, inspirational and motivational videos, as well as tutorials on many topics. From financial tips, romance, and happiness to psychological tips, personal development, and even productivity advice.
