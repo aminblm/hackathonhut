@@ -191,7 +191,7 @@ This is our hackathon hut
 - [Google Developers Certification](https://developers.google.com/training/certification/) : Learn and grow as a developer with our educational resources and certification exams.
 - [SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/) : By Moz moz.com, We believe in better marketing.
 - [CCNA Certificate](https://masterofproject.com/p/introduction-to-cisco-ccna-200-120) : CCNA Training, Learn about CCNA foundations, OSI Model, Cisco 3 Layer Model, LANs and more.
-- [Udemy](https://www.udemy.com) : Build your skills with our incredible instructors
+- [Udemy](https://www.udemy.com) : Build your skills with our incredible instructors.
 - [Kali Linux](https://kali.training) : The Ultimate Kali Linux Book and Manual with KLCP Certification.
 - [SQL Official Certificate](https://blogs.oracle.com/developers/learn-sql-with-this-free-online-12-week-course) : Learn SQL with This Free Online 12-Week Course.
 
