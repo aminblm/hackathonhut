@@ -263,9 +263,9 @@ This is our hackathon hut
 #### Mathematics
 - [Science4all](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX) : Democratie sous l'angle de la théorie des jeux.
 #### Learning
-- [Hygiène-Mental](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw) : Cette Chaîne proposes un éveil à la pensée critique.
+- [Hygiène-Mental](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw) : Cette Chaîne propose un éveil à la pensée critique.
 -	[Réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ) : Vidéos explicatives sur la thématique de l'épuisement des ressources.
-- [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ) : Les bases de la finances et de la création monétaire.
+- [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ) : Les bases de la finance et de la création monétaire.
 #### Personal Development
 - [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g/featured) : This channel will upload animated book review, inspirational and motivational videos, as well as tutorials on many topics. From financial tips, romance, and happiness to psychological tips, personal development, and even productivity advice.
 - [The school of life](https://www.youtube.com/user/schooloflifechannel/) : The School of Life is a global organization dedicated to developing emotional intelligence
