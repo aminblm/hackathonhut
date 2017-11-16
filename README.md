@@ -137,7 +137,7 @@ This is our hackathon hut
 				- [Bootstrap](#bootstrap)
 		- [Life Hacks](#life-hacks)
 		- [Packages](#packages)
-			- [Visual Studio Code](#visual-studio-code) 
+			- [Visual Studio Code](#visual-studio-code)
 			- [Atom](#atom)
 			- [ReactJS](#reactjs)
 			- [Bootstrap](#bootstrap-1)
@@ -259,8 +259,13 @@ This is our hackathon hut
 #### Entrepreneurship
 #### Robotics
 #### Aerospace
+- [Hugo Lisoir](https://www.youtube.com/channel/UCDC6DBi0kRp6Jk21xqfvFLA) : L'actualité semaine par semaine de la conquête spaciale.
 #### Mathematics
+- [Science4all](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX) : Democratie sous l'angle de la théorie des jeux.
 #### Learning
+- [Hygiène-Mental](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw) : Cette Chaîne proposes un éveil à la pensée critique.
+-	[Réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ) : Vidéos explicatives sur la thématique de l'épuisement des ressources.
+- [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ) : Les bases de la finances et de la création monétaire.
 #### Personal Development
 - [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g/featured) : This channel will upload animated book review, inspirational and motivational videos, as well as tutorials on many topics. From financial tips, romance, and happiness to psychological tips, personal development, and even productivity advice.
 - [The school of life](https://www.youtube.com/user/schooloflifechannel/) : The School of Life is a global organization dedicated to developing emotional intelligence
@@ -344,6 +349,6 @@ This is our hackathon hut
 - [Medium](https://medium.com/) : Subscribe to medium to have emails about what is trending on the platform.
 #### Interesting Websites
 -[Unicorns](http://fortune.com/unicorns/) : They’re called “unicorns”—private companies valued at $1 billion or more. The billion-dollar technology startup was once the stuff of myth. Today they're seemingly everywhere, backed by a bull market and a new generation of disruptive technology.
-- [Wappalyzer](https://www.wappalyzer.com) : The ultimate tool to know everything about the technologies in the web. 
+- [Wappalyzer](https://www.wappalyzer.com) : The ultimate tool to know everything about the technologies in the web.
 - [Player Fm](https://player.fm) : Website gathering all the podcasts worldwide.
 ## Other topics
