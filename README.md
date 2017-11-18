@@ -214,6 +214,7 @@ This is our hackathon hut
 ### Projects
 ### Opportunities
 - [Google Careers](https://careers.google.com) : All opportunities offered by Google.
+- [Glassdoors](https://www.glassdoor.fr/index.htm) : Trouvez l'emploi qui correspond à votre style de vie.
 ### Scholarships
 ### Professional visits
 ### Contacts
